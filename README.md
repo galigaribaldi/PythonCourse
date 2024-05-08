@@ -113,11 +113,11 @@ Tecnologías en la nube ¿Cómo se puede subir una aplicación Web a estos servi
 
 #### Heroku
 
-Uso general sobre como deployar en un servidor remoto
+Uso general sobre como deployar a un servidor remoto
 
 #### Azure
 
-Herramientas y usos de Azure
+Herramientas y usos básicos en Azure
 
 #### GCloud
 
@@ -143,5 +143,5 @@ Introducción a los gestores de bases de datos, así como instrucciones básicas
 
 #### Repositorios y comandos Básicos de GIT
 
-#### 
+
 
