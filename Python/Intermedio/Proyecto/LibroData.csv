@@ -1,20 +1,20 @@
-﻿Nombre Libro,Nombre Autor,Autor_ID,Calificacion,Precio,Editorial
-Maths Concept King All Formulas and Theorum | Smart Tricks | Arithmetic & Advance Maths,Gagan Pratap Sir,1,4.7,239,Amazon
-BlackBook of English Vocabulary May 2024 by Nikhil Gupta,Nikhil Gupta,2,4.5,299,Amazon
-Atomic Habits : the life-changing million-copy #1 bestseller,James Clear,3,4.6,476,Pinguin Random House
-My First Library: Boxset of 10 Board Books for Kids [Board book] Wonder House Books,Wonder House Books,4,4.5,399,FCE
-Lucent General Knowledge - New Reduced Price Ediiton - 13th - Edition for 2024 Exams and Increased Number of Pages (458 Pages) - [Original Copy Only - ENGLISH MEDIUM],Binay Karna,5,4.4,209,Pinguin Random House
-The Power of Your Subconscious Mind: Original Edition | Premium Paperback,Joseph Murphy,6,4.5,149,FCE
-Ikigai,Francesc Miralles,7,4.6,348,Amazon
-Don't Believe Everything You Think (English),Joseph Nguyen,8,4.5,177,Amazon
-PW Calculus Core Fear No More Calculus Book By Sachin Jakhar For JEE Main & Advanced l Integral & Differential Calculus,Sachin Jakhar,9,4.7,460,Pinguin Random House
-The Psychology of Money,Morgan Housel,10,4.6,274,FCE
-Lucifer was Innocent: The Red Pill,Tirth Raj Parsana,11,3.6,369,Pinguin Random House
-"Conceptual Physics, 12e",Paul G. Hewitt,12,4.5,899,FCE
-"MTG Objective NCERT at your FINGERTIPS Biology - NCERT Notes with HD Pages, Exam Archive & MCQs | Based on NMC NEET Rationalised Syllabus, NEET Books (Latest & Revised Edition 2024-2025",MTG Editorial Board,13,4.4,595,Amazon
-Animals Tales From Panchtantra: Timeless Stories for Children From Ancient India [Hardcover] Wonder House Books,Wonder House Books,14,4.5,199,Amazon
-BRAHMASTRA Complete Maths Multicolored Formula Book Second Edition BILINGUAL by Aditya Ranjan Sir,Aditya Ranjan Sir,15,4.5,150,Pinguin Random House
-My First Book of Patterns Pencil Control: Patterns Practice book for kids (Pattern Writing) [Paperback] Wonder House Books,Wonder House Books,16,4.4,98,FCE
-Indian Polity for UPSC (English)|7th Edition|Civil Services Exam| State Administrative Exams,M Laxmikanth,17,4.6,739,Pinguin Random House
-Word Power Made Easy By Norman Lewis (More than 700 Pages),Norman Lewis,18,4.4,97,FCE
-Mathematics class 10th and MCQs - by R.D. Sharma (2024-25 Examination),R.D. Sharma,19,4.5,435,Amazon
+﻿Nombre Libro,Nombre Autor,Autor_ID,Calificacion,Precio,Editorial,Libro_ID
+Maths Concept King All Formulas and Theorum | Smart Tricks | Arithmetic & Advance Maths,Gagan Pratap Sir,1,4.7,239,Amazon,1
+BlackBook of English Vocabulary May 2024 by Nikhil Gupta,Nikhil Gupta,2,4.5,299,Amazon,2
+Atomic Habits : the life-changing million-copy #1 bestseller,James Clear,3,4.6,476,Pinguin Random House,3
+My First Library: Boxset of 10 Board Books for Kids [Board book] Wonder House Books,Wonder House Books,4,4.5,399,FCE,4
+Lucent General Knowledge - New Reduced Price Ediiton - 13th - Edition for 2024 Exams and Increased Number of Pages (458 Pages) - [Original Copy Only - ENGLISH MEDIUM],Binay Karna,5,4.4,209,Pinguin Random House,5
+The Power of Your Subconscious Mind: Original Edition | Premium Paperback,Joseph Murphy,6,4.5,149,FCE,6
+Ikigai,Francesc Miralles,7,4.6,348,Amazon,7
+Don't Believe Everything You Think (English),Joseph Nguyen,8,4.5,177,Amazon,8
+PW Calculus Core Fear No More Calculus Book By Sachin Jakhar For JEE Main & Advanced l Integral & Differential Calculus,Sachin Jakhar,9,4.7,460,Pinguin Random House,9
+The Psychology of Money,Morgan Housel,10,4.6,274,FCE,10
+Lucifer was Innocent: The Red Pill,Tirth Raj Parsana,11,3.6,369,Pinguin Random House,11
+"Conceptual Physics, 12e",Paul G. Hewitt,12,4.5,899,FCE,12
+"MTG Objective NCERT at your FINGERTIPS Biology - NCERT Notes with HD Pages, Exam Archive & MCQs | Based on NMC NEET Rationalised Syllabus, NEET Books (Latest & Revised Edition 2024-2025",MTG Editorial Board,13,4.4,595,Amazon,13
+Animals Tales From Panchtantra: Timeless Stories for Children From Ancient India [Hardcover] Wonder House Books,Wonder House Books,14,4.5,199,Amazon,14
+BRAHMASTRA Complete Maths Multicolored Formula Book Second Edition BILINGUAL by Aditya Ranjan Sir,Aditya Ranjan Sir,15,4.5,150,Pinguin Random House,15
+My First Book of Patterns Pencil Control: Patterns Practice book for kids (Pattern Writing) [Paperback] Wonder House Books,Wonder House Books,16,4.4,98,FCE,16
+Indian Polity for UPSC (English)|7th Edition|Civil Services Exam| State Administrative Exams,M Laxmikanth,17,4.6,739,Pinguin Random House,17
+Word Power Made Easy By Norman Lewis (More than 700 Pages),Norman Lewis,18,4.4,97,FCE,18
+Mathematics class 10th and MCQs - by R.D. Sharma (2024-25 Examination),R.D. Sharma,19,4.5,435,Amazon,19

@@ -1,20 +1,20 @@
-﻿Nombre Autor,Autor_ID,Nacionalidad,Edad,Correo
-Gagan Pratap Sir,1,,,
-Nikhil Gupta,2,,,
-James Clear,3,,,
-Wonder House Books,4,,,
-Binay Karna,5,,,
-Joseph Murphy,6,,,
-Francesc Miralles,7,,,
-Joseph Nguyen,8,,,
-Sachin Jakhar,9,,,
-Morgan Housel,10,,,
-Tirth Raj Parsana,11,,,
-Paul G. Hewitt,12,,,
-MTG Editorial Board,13,,,
-Wonder House Books,14,,,
-Aditya Ranjan Sir,15,,,
-Wonder House Books,16,,,
-M Laxmikanth,17,,,
-Norman Lewis,18,,,
-R.D. Sharma,19,,,
+﻿Autor_ID,Nacionalidad,Edad,Correo,Nombre Autor
+1,,,,Gagan Pratap Sir
+2,,,,Nikhil Gupta
+3,,,,James Clear
+4,,,,Wonder House Books
+5,,,,Binay Karna
+6,,,,Joseph Murphy
+7,,,,Francesc Miralles
+8,,,,Joseph Nguyen
+9,,,,Sachin Jakhar
+10,,,,Morgan Housel
+11,,,,Tirth Raj Parsana
+12,,,,Paul G. Hewitt
+13,,,,MTG Editorial Board
+14,,,,Wonder House Books
+15,,,,Aditya Ranjan Sir
+16,,,,Wonder House Books
+17,,,,M Laxmikanth
+18,,,,Norman Lewis
+19,,,,R.D. Sharma
