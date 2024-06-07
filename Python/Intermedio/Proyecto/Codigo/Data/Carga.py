@@ -34,15 +34,24 @@ class CargaLibro():
                     AUTOR_ID        INTEGER          NOT NULL,
                     CONTRAINT   autor_id_fk REFERENCES autor(autor_id)     
                 );''')
+        except:
+            print("Error")
+        finally:
+            con.close()
+    def seleccionarDatosLibro(self):
+        con = sqlite3.connect('Data/BaseProyecto.db')
+        cursor = con.cursor()
+        print("select a la tabla libro")
+        try:
             for i in cursor.execute('SELECT * FROM libro;'):
                 print(i)
             con.commit()
         except:
             print("Error")
         finally:
-            con.close()
+            con.close()        
         
-    def cargarDatos(self, tuplaCargar):
+    def cargarDatosLibro(self, tuplaCargar):
         con = sqlite3.connect('Data/BaseProyecto.db')
         cursor = con.cursor()
         for i in tuplaCargar:
@@ -62,7 +71,20 @@ class CargaAutor():
         ##Limpieza
         listaFinal.pop(0)
         return listaFinal
-    
+
+    def seleccionarDatosAutor(self):
+        con = sqlite3.connect('Data/BaseProyecto.db')
+        cursor = con.cursor()
+        print("select a la tabla Autor")
+        try:
+            for i in cursor.execute('SELECT * FROM autor;'):
+                print(i)
+            con.commit()
+        except:
+            print("Error")
+        finally:
+            con.close()        
+
     def crearTablaAutor(self):
         con = sqlite3.connect('Data/BaseProyecto.db')
         cursor = con.cursor()
@@ -76,17 +98,16 @@ class CargaAutor():
                     CORREO              VARCHAR2(40)     NOT NULL,
                     NOMBRE              VARCHAR2(40)     NOT NULL
                 );''')
-            for i in cursor.execute('SELECT * FROM autor;'):
-                print(i)
             con.commit()
         except:
             print("Error")
         finally:
             con.close()
 
-    def cargarDatosAutor(self):
+    def cargarDatosAutor(self, tuplaCargar):
         con = sqlite3.connect('Data/BaseProyecto.db')
         cursor = con.cursor()
+        print("Cargar tabla autor con informacion")
         for i in tuplaCargar:
             cursor.execute('INSERT INTO autor(autor_id, nacionalidad, edad, correo, nombre) VALUES(?, ?, ?, ?, ?)', i)
         con.commit()
